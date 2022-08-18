@@ -104,5 +104,5 @@ Tanushrees-MacBook-Pro:cellularusage tanushreekamath$
 
 
 ### For more info
- * Get help and additional CloudGenix Documentation at <http://support.cloudgenix.com>
+ * Get help and additional Prisma SDWAN Documentation at <https://docs.paloaltonetworks.com/prisma/prisma-sd-wan>
  
