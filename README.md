@@ -1,4 +1,4 @@
-# Prisma SDWAN: Config Cellular Usage
+# Prisma SDWAN: Minimize Cellular Usage
 This script is used to update circuit settings that minimize cellular usage
 
 
