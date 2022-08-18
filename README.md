@@ -2,7 +2,7 @@
 This script is used to update circuit settings that minimize cellular usage
 
 
-#### Synopsis
+### Synopsis
 This script can be used to update circuit settings to minimize cellular usage. 
 
 It update the following settings for the circuit:
@@ -14,17 +14,17 @@ It update the following settings for the circuit:
 This script can be used to update settings on one or more sites across one or more circuit labels
 
 
-#### Requirements
+### Requirements
 * Active CloudGenix Account
 * Python >=3.6
 * Python modules:
     * CloudGenix Python SDK >= 6.0.1b1 - <https://github.com/CloudGenix/sdk-python>
 * ProgressBar2
 
-#### License
+### License
 MIT
 
-#### Installation:
+### Installation:
  - **Github:** Download files to a local directory, manually run `cellularusage.py`. 
 
 ### Examples of usage:
@@ -46,7 +46,7 @@ Update settings for all sites for multiple labels:
 ```
 
 
-Help Text:
+### Help Text:
 ```angular2
 Tanushrees-MacBook-Pro:cellularusage tanushreekamath$ ./cellularusage.py -h
 usage: cellularusage.py [-h] [--print-lower] [--controller CONTROLLER] [--email EMAIL] [--password PASSWORD] [--insecure] [--noregion] [--sdkdebug SDKDEBUG] [--sitename SITENAME] [--label LABEL]
@@ -97,12 +97,12 @@ Tanushrees-MacBook-Pro:cellularusage tanushreekamath$
 
 
 
-#### Version
+### Version
 | Version | Build | Changes |
 | ------- | ----- | ------- |
 | **1.0.0** | **b1** | Initial Release|
 
 
-#### For more info
+### For more info
  * Get help and additional CloudGenix Documentation at <http://support.cloudgenix.com>
  
